@@ -1,7 +1,7 @@
 ---
 title: Purpleman
 subtitle: 吾行吾道，虽远必至
-image: /img/blog-chemex.jpg
+image: /img/about-direct-sourcing.jpg
 blurb:
   heading: arch linux安装过程
   text: sudo pacman -S sudo
